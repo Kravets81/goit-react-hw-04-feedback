@@ -1,0 +1,13 @@
+.options__list {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+}
+
+.options__button {
+  padding: 7px 20px;
+  border-radius: 5px;
+  background-color: rgba(171, 187, 217, 0.7);
+  font-size: 15px;
+  font-weight: 400;
+}

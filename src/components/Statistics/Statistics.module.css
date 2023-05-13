@@ -1,0 +1,13 @@
+.statistics__list {
+  font-size: 15px;
+  font-weight: 400;
+
+  border: 2px solid black;
+  padding: 21px;
+  border-radius: 5px;
+  background-color: rgba(171, 187, 217, 0.7);
+}
+
+.statistics__item {
+  margin-bottom: 7px;
+}
